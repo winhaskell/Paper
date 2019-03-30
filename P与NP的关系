@@ -1,0 +1,4 @@
+P/NP问题
+
+P/NP问题中包含了复杂度类P与NP的关系。
+1971年史提芬·古克（Stephen A. Cook）和Leonid Levin相对独立地提出了下面的问题，即复杂度类P和NP是否是恒等的（P=NP?）。
